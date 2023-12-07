@@ -6,4 +6,4 @@ def uniq_add(my_list=[]):
     summation = 0
     for i in range(list_length):
         summation = summation+new[i]
-return(summation)
+    return(summation)
